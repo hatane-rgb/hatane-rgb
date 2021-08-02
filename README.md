@@ -1,3 +1,1 @@
-hi! my name is hatane-rgb(hatanesan)
-I'm a beginner, but thank you.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatane-rgb&show_icons=true&theme=radical)
