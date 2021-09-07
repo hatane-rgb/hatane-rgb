@@ -3,4 +3,6 @@
 ![OS-windows11](https://img.shields.io/badge/OS-windows11-White)
 
 i'm Student.
-I belong to kokkosoft.
+I belong to [kokkosoft](https://kokkosoft.github.io/).
+
+I am a communist public security surveillance leader metamorphosis programmer.
