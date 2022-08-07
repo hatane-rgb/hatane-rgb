@@ -1,4 +1,4 @@
-![profile]()
+![profile](https://github.com/hatane-rgb/hatane-rgb/blob/main/profile.gif)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatane-rgb&layout=compact&theme=tokyonight)](https://github.com/hatane-rgb/)
 
